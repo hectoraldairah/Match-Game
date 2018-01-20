@@ -1,0 +1,14 @@
+{
+  "name": "memory-match",
+  "version": "1.0.0",
+  "description": "Memory Math using asynchronous javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Héctor Aldair Aguilar Hernández",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
